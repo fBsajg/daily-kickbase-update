@@ -5,7 +5,7 @@
 - install Kickbase-API==0.0.8
 - set username and password in `kb.py`
 
-kickbase.txt is created as formatted html ready to send as mail from remote server to your mailadress.
+kickbase.txt is created as formatted html ready to send as mail from **remote server** to your mailadress.
 
 **Example**
 

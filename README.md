@@ -7,7 +7,7 @@
 
 kickbase.txt is created as formatted html ready to send as mail from remote server to your mailadress.
 
-Example:
+**Example**
 
 create `template.txt`
 
